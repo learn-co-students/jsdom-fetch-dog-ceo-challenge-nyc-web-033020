@@ -1,6 +1,6 @@
 # Fetch Dog CEO Challenge
 
-## Challenge 1
+<!-- ## Challenge 1
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
@@ -15,8 +15,8 @@ Add JavaScript so that:
 - parse the response as `JSON`
 - add image elements to the DOM **for each**🤔 image in the array
 
----
-
+--- -->
+<!-- 
 ## Challenge 2
 
 ```js
@@ -26,18 +26,18 @@ const breedUrl = 'https://dog.ceo/api/breeds/list/all'
 After the first challenge is completed, add JavaScript so that:
 
 - on page load, fetch all the dog breeds using the url above ⬆️
-- add the breeds to the page in an `<ul>` (take a look at the included `index.html`)
+- add the breeds to the page in an `<ul>` (take a look at the included `index.html`) -->
 
 ---
 
-## Challenge 3
+<!-- ## Challenge 3
 
 Once all of the breeds are rendered in the `<ul>`, add JavaScript so that the
 font color of a particular `<li>` changes _on click_. This can be a color of
 your choosing.
 
 When the user clicks any of the dog breed list items, the color the text should
-change.
+change. -->
 
 ---
 
